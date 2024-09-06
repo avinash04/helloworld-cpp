@@ -1,0 +1,32 @@
+{
+  "name": "avi-sample-cpp-build",
+  "number": "1",
+  "agent": {
+    "name": "jfrog-cli-go",
+    "version": "2.67.0"
+  },
+  "buildAgent": {
+    "name": "GENERIC",
+    "version": "2.67.0"
+  },
+  "started": "2024-09-05T21:43:55.807-0700",
+  "artifactoryPrincipal": "avinashj",
+  "modules": [
+    {
+      "id": "helloworld",
+      "type": "cpp",
+      "dependencies": [
+        {
+          "sha1": "bdec59a0d37c2d479b47a518e92083f5f5a86596",
+          "id": "poco:1.9.0",
+          "type": "cpp"
+        },
+        {
+          "sha1": "9458784bbb7eb28b44881812f4aefa9c33d6224f",
+          "id": "sqlite3:299.1.0.8",
+          "type": "cpp"
+        }
+      ]
+    }
+  ]
+}

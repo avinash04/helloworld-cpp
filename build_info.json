@@ -1,0 +1,15 @@
+{
+  "name": "avi-sample-cpp-build",
+  "number": "1",
+  "agent": {
+    "name": "jfrog-cli-go",
+    "version": "2.67.0"
+  },
+  "buildAgent": {
+    "name": "GENERIC",
+    "version": "2.67.0"
+  },
+  "started": "2024-09-05T21:43:55.807-0700",
+  "artifactoryPrincipal": "avinashj",
+  "modules": []
+}
