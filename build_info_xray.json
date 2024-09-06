@@ -1,5 +1,5 @@
 {
-  "name": "avi-sample-cpp-build",
+  "name": "sample-cpp-build",
   "number": "1",
   "agent": {
     "name": "jfrog-cli-go",
